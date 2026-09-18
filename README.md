@@ -1,12 +1,34 @@
 <div align="center">
 
-<!--
-  ====================== BANNER PLACEHOLDER ======================
-  Ganti baris <img> di bawah ini dengan link banner AI kamu setelah
-  digenerate (upload ke repo lalu ganti src, atau host di imgur/etc).
--->
-<img src="https://via.placeholder.com/1200x400/0d1117/00d9ff?text=ALVIN+SATRIA+GANZA+%7C+DEVOPS+%26+OBSERVABILITY+ENGINEER" alt="Banner" width="100%"/>
+# Hey Everyone 👋, I'm Alvin Satria Ganza
 
+### DevOps Enthusiast · Cloud & Infrastructure Automation · Observability
+
+<a href="https://github.com/alvin895">
+  <img src="https://img.shields.io/github/followers/alvin895?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://www.linkedin.com/in/alvin-satria-ghaza-65388a337/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alvin%20Satria%20Ganza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/alvinsatriaghaza">
+  <img src="https://img.shields.io/badge/Instagram-alvinsatriaghaza-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=alvin895&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+  <!--
+    Ganti src di bawah dengan link banner AI kamu setelah digenerate
+    (upload ke repo ini, misalnya sebagai Banner1.png, lalu pakai
+    format raw.githubusercontent.com seperti contoh di bawah).
+  -->
+  <img width="100%" src="https://raw.githubusercontent.com/alvin895/alvin895/main/Banner1.png" alt="Alvin Satria Ganza Banner" />
 </div>
 
 <details>
@@ -33,88 +55,95 @@ particle connections. Ultra-detailed, high-tech, cinematic lighting,
 
 </details>
 
-<div align="center">
+---
 
-# 👋 Hai, Saya Alvin Satria Ganza
+## 👨‍💻 About Me
 
-### 🚀 DevOps Enthusiast | Cloud & Infrastructure Automation | Observability
+<p>
+  <img src="https://img.shields.io/badge/Name-Alvin%20Satria%20Ganza-1f6feb?style=for-the-badge" alt="Name" />
+  <img src="https://img.shields.io/badge/Status-Mahasiswa-2ea44f?style=for-the-badge" alt="Status: Mahasiswa" />
+  <img src="https://img.shields.io/badge/Location-Padang%2C%20Indonesia-ff9933?style=for-the-badge" alt="Location: Padang, Indonesia" />
+</p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Enthusiast-6f42c1?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Campus-Politeknik%20Negeri%20Padang-e4405f?style=for-the-badge" alt="Campus" />
+</p>
+
+Saya adalah mahasiswa **Teknik Komputer di Politeknik Negeri Padang** yang bersemangat menjelajahi dunia **DevOps** dan **Cloud Engineering**. Ketertarikan saya berfokus pada bagaimana membangun *pipeline* otomatis yang efisien, mengelola infrastruktur sebagai kode (*Infrastructure as Code*), serta memastikan sistem berjalan andal melalui *monitoring* dan *observability* yang baik. Saya percaya otomatisasi dan kolaborasi yang solid antara *development* dan *operations* adalah kunci membangun software yang scalable dan reliable.
+
+### Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud Engineering" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Infrastructure as Code" />
+  <img src="https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Networking-009639?style=flat-square&logo=nginx&logoColor=white" alt="Networking" />
+</p>
+
+- 👨‍💻 Projects: [github.com/alvin895](https://github.com/alvin895)
+- 💬 Ask me about **DevOps, Cloud Engineering, System Administration, CI/CD & Networking**
+- 🎓 Kampus: Politeknik Negeri Padang — Teknik Komputer
+- 📫 Terbuka untuk kolaborasi project & internship di bidang DevOps/Cloud
 
 ---
 
-## 📌 Tentang Saya
+## `$ ls technologies/`
 
+### Cloud, DevOps and Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,nginx,git,github,gitlab,linux,bash&perline=11" alt="Cloud and DevOps technologies" />
+</p>
+
+### Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,dart,flutter,spring,vscode&perline=11" alt="Development technologies" />
+</p>
+
+### Observability & Project Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,trello&perline=11" alt="Observability and project management tools" />
+</p>
+
+### DevOps Ecosystem Lengkap
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/Tempo-FF9800?style=for-the-badge&logo=grafana&logoColor=white" alt="Tempo" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</p>
+
+---
+
+## `$ devops --focus`
+
+Topik yang sedang saya pelajari dan dalami secara serius:
+
+```text
+├── Linux and Shell Scripting (Red Hat & Ubuntu)
+├── Git, GitHub and GitLab
+├── GitHub Actions CI/CD Pipeline
+├── Docker and Containerization
+├── Kubernetes Orchestration
+├── Terraform and Ansible (Infrastructure as Code)
+├── AWS Cloud Fundamentals
+├── Nginx and Networking
+├── Spring Boot Backend Development
+└── Monitoring & Observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
 ```
-🎓 Mahasiswa Teknik Komputer — Politeknik Negeri Padang
-🔭 Sedang mendalami dunia DevOps, Cloud Engineering & System Administration
-🌱 Fokus belajar: CI/CD Pipeline, Container Orchestration, dan Observability Stack
-🛠️ Suka membangun infrastruktur yang otomatis, aman, dan mudah diskalakan
-💬 Tertarik diskusi seputar: DevOps, Cloud Native, Networking & Monitoring
-📫 Terbuka untuk kolaborasi project & internship di bidang DevOps/Cloud
-```
-
-Saya adalah mahasiswa Teknik Komputer yang bersemangat menjelajahi dunia **DevOps** dan **Cloud Engineering**. Ketertarikan saya berfokus pada bagaimana membangun *pipeline* otomatis yang efisien, mengelola infrastruktur sebagai kode (*Infrastructure as Code*), serta memastikan sistem berjalan andal melalui *monitoring* dan *observability* yang baik. Saya percaya bahwa otomatisasi dan kolaborasi yang solid antara *development* dan *operations* adalah kunci untuk membangun software yang scalable dan reliable.
 
 ---
 
-## 🧰 Tech Stack & Tools yang Sedang Saya Pelajari
-
-<div align="center">
-
-### 🖥️ Operating Systems
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-### ☁️ Cloud & Infrastructure as Code
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-
-### 📦 Containers & Orchestration
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-### 🔁 CI/CD & Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-### 🧩 Backend Framework
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-### 📊 Monitoring & Observability
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tempo-FF9800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-
-### 📋 Project Management
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-
-</div>
-
----
-
-## 💻 Programming & Scripting
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-</div>
-
----
-
-## 🔄 Alur Kerja DevOps Saya
+## 🔄 Alur Kerja DevOps
 
 <div align="center">
 
@@ -139,43 +168,66 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
+## `$ github --profile-summary`
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/alvin895?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/alvin895/alvin895?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile last commit" />
+  <img src="https://komarev.com/ghpvc/?username=alvin895&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alvin895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin895&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvin895&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvin895&theme=tokyo-night&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alvin895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin895&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
+
+## `$ git streak`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alvin895&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## `$ git log --graph --all`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvin895&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Open to Collaborations
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Study%20Group-Open-2ea44f?style=for-the-badge" alt="Study Group Open" />
+  <img src="https://img.shields.io/badge/Project%20Collabs-Open-2ea44f?style=for-the-badge" alt="Project Collabs Open" />
+  <img src="https://img.shields.io/badge/Internship-Open%20to%20Offers-FF0000?style=for-the-badge" alt="Internship Open to Offers" />
+</p>
 
-<a href="https://www.linkedin.com/in/alvin-satria-ghaza-65388a337/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="[https://www.instagram.com/alvinsatriaghaza?stkn=MWFhdmh1NHIwMHZ4MA==]" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/alvin895" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:[alvinsatriaghaza@gmail.com]" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- 🤝 Kolaborasi project DevOps/Cloud
+- 🎓 Study group & sharing knowledge seputar DevOps
+- 💼 Terbuka untuk kesempatan internship di bidang DevOps/Cloud Engineering
+- 🧭 Senang berdiskusi dan belajar bareng
 
-</div>
+---
+
+## `$ connect --with-me`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvin-satria-ghaza-65388a337/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alvin%20Satria%20Ganza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/alvinsatriaghaza">
+    <img src="https://img.shields.io/badge/Instagram-alvinsatriaghaza-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/alvin895">
+    <img src="https://img.shields.io/badge/GitHub-alvin895-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:alvinsatriaghaza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alvinsatriaghaza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -183,6 +235,10 @@ flowchart LR
 
 ### ⚡ "Automate everything, deliver faster."
 
-<img src="https://komarev.com/ghpvc/?username=alvin895&label=Profile%20Views&color=0e75b6&style=flat" alt="alvin895"/>
+```text
+Build • Automate • Deploy • Scale
+```
+
+**⭐ Follow [alvin895](https://github.com/alvin895) untuk update perjalanan belajar DevOps saya**
 
 </div>
