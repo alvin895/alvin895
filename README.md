@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey Everyone 👋, I'm Alvin Satria Ganza
+# Hey Everyone 👋, I'm Alvin Satria Ghaza
 
 ### DevOps Enthusiast · Cloud & Infrastructure Automation · Observability
 
